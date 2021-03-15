@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Sortieralgorithmen
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Sortieralgorithmen.\r\n\ \r\n\ @author\ Tim\ \r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=Sortieralgorithmen()
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ Sortieralgorithmen\r\n
+comment2.params=
+comment2.target=void\ arrayBefuellen()
+comment3.params=
+comment3.target=void\ arrayAusgeben()
+comment4.params=index1\ index2
+comment4.target=void\ tausche(int,\ int)
+comment5.params=
+comment5.target=void\ bubblesort()
+numComments=6
