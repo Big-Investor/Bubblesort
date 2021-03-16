@@ -3,7 +3,7 @@ import java.util.Random;
 /**
  * Beschreiben Sie hier die Klasse Sortieralgorithmen.
  * 
- * @author Tim 
+ * @author Tim der Knecht
  * @version 0.1
  */
 public class Sortieralgorithmen
